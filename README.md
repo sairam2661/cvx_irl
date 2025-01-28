@@ -1,6 +1,6 @@
 # cvx_irl
 
-Code accompanies the paper "Inverse Reinforcement Learning via Convex Optimization".
+Code accompanies the paper "[Inverse Reinforcement Learning via Convex Optimization](https://arxiv.org/abs/2501.15957)".
 
 ## Abstract
 
