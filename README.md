@@ -36,3 +36,9 @@ If you want to generate the video in example 2, `ffmpeg` is also required.
 1. Collect data: `python collect_demo.py`.
 2. Solve the problem: `python cirl.py`.
 3. Follow the jupyter notebook `example_2/notebook/plot.ipynb` to visualize the results.
+
+### Appendix: Auto-tuning the scalarization weight
+
+0. Go to the `lambda_autotune/src` directory.
+1. Collect data: `python collect_demo.py`.
+2. Follow the jupyter notebook `lambda_autotune/notebook/lambda_autotune.ipynb` to solve the problem with maximum scalarization weight (with nontrivial solution).
